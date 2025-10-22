@@ -1,0 +1,1 @@
+# FastAPI app main with Stripe integration placeholder

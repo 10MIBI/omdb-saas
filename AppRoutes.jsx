@@ -1,0 +1,1 @@
+// App React (déjà généré)
