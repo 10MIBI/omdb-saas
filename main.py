@@ -1,1 +1,7 @@
-# FastAPI app main with Stripe integration placeholder
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"message": "API O-MDB en ligne"}
